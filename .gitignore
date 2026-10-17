@@ -1,0 +1,5 @@
+images/
+captions/
+embeddings/
+__pycache__/
+*.npy
